@@ -1,6 +1,7 @@
-## configurasi
+## konfigurasi
 
 /# Install dependencies
+
 `composer install`
 
 /# setting database username dan password
